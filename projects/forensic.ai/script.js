@@ -1,3 +1,5 @@
+//all hypothetical code please test
+
 const poisonDetectionBtn = document.getElementById("poisonDetectionBtn");
 const poisonDetectionResult = document.getElementById("poisonDetectionResult");
 const drugInteractionBtn = document.getElementById("drugInteractionBtn");
