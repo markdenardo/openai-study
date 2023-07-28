@@ -2,7 +2,7 @@ import openai
 import sys
 sys.path
 sys.path.append('/usr/local/lib/python3.9/site-packages')
-openai.api_key = "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"
+openai.api_key = "API_KEY"
 
 messages = []
 system_msg = input("What chatbot would you like to create?\n")
